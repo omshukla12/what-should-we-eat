@@ -18,30 +18,30 @@ Checkout [CONTRIBUTING.md](.github/CONTRIBUTING.md) for details on creating pull
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Created after a 10 minute conversation with Adesuwa (@littlezigy) that went something like this:
+Created after a 10 minute conversation with Nirmit Mishra(@nirmit27) that went something like this:
 
 Me: So what do you want to eat?
 
-Her: Cereal?
+Him: Chole Bhature?
 
 Me: Meh, nope.
 
-Her: Then what?
+Him: Then what?
 
-Me: Hmm... plantain and egg?
+Me: Hmm... Paneer Tikka?
 
-Her: What about bread and egg?
+Him: What about Dal Makhani?
 
-Me: Or we could do indomie?
+Me: Or we could do Baingan Bharta?
 
-Her: Pancakes!
+Him: Chilli Paneer!
 
 Me: There's too many choices!
 
-Her: Yeah, we should write all the choices down, put it in a bucket and just pick one at random.
+Him: Yeah, we should write all the choices down, put it in a bucket and just pick one at random.
 
 Me: Or we could build something that does that.
 
 5 minutes later, the first draft of What Should We Eat was built.
 
-**Sidenote:** We ate cereal.
+**Sidenote:** We ate Samosa.
